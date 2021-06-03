@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;1,300&display=swap');
+/* .header{
+    width: 100vw;
+    height:100vh ;
+} */
+
+p{
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    font-weight: 300;
+    font-size: 60px;
+    width: 90%;
+    height: 90%;
+}
+@media (max-width=400px){
+    font-family: 'Roboto', sans-serif;
+    display: flex: ;;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    font-weight: 300;
+    font-size: 1px;
+    width: 1oovw;
+    /* height: 90%; */
+}
